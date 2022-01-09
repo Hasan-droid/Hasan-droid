@@ -114,6 +114,16 @@
     width:120px;
     transform: rotate(-15deg);"
                        src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="">
+                <img style="   border: none;
+    border-radius: 10px;
+    width: 2rem;
+    height: 2rem;
+    margin: .2rem;
+    transition: 1s;
+    height:60px;
+    width:120px;
+    transform: rotate(-15deg);"
+                       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="">
                <img style="   border: none;
     border-radius: 10px;
     width: 2rem;
